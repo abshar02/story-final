@@ -1,8 +1,8 @@
 # story-final
 
-This is Sample Kotlin Project which Create a list page to show items in cardview. 
+This is sample Android Kotlin Project which Create a list page to show items in cardview. 
 
- 
+  
 1) The purpose and components of RecyclerView
 
 2) How to change the layout of RecyclerView
